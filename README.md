@@ -30,4 +30,4 @@ Code: https://github.com/muhammad-usman-web-dev/askmath
 
 - GitHub: https://github.com/muhammad-usman-web-dev
 - LinkedIn: https://www.linkedin.com/in/muhammad-usman-web-dev
-- Email: www.mu1404575@gmail.com
+- Email:m.usman.codes.@gmail.com
